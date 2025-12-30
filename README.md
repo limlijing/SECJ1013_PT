@@ -1,4 +1,8 @@
 ## Programming Technique I
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
 Programming techniques are fundamental methods and principles for designing, writing, and structuring code, ranging from fundamental procedural steps and data handling to high-level paradigms like Object-Oriented Programming (OOP), Functional Programming (FP), and Event-Driven Programming, all aimed at creating efficient, maintainable, and robust software through practices like DRY principles, version control (Git), and rigorous testing.
 In this course, I have learn the C++ programming language.Learning basic,array,inputfile,outputfile and create a boardgame.
 
