@@ -14,6 +14,9 @@ Before learning C++ programming, I felt that C++ was different with Java because
 In this assigment 2 , I have successfully build up a small calorie calculator system by using C++ program. We can fill in our gender, age ,weight and also height.After that, we just click to run the programme and we will get the Calories/ day (using Mifflin-St Jeor Equation).This assigment helped me improve my skills to solve all the challenges and more careful to check the output with my answer that I run isn't correct or not.   
 [ass2](https://github.com/limlijing/SECJ1013_PT/blob/main/assignment2.cpp)
 
+## Lab 1
+In the lab 1,I have succesfullly learn how to draw flowchart and pseuducode.
+
 ## Assignment 3
 In this assigment 3, I have successfully open a txt file and close the file by using C++ program.  
 [ass3](https://github.com/limlijing/SECJ1013_PT/blob/main/ass3.cpp)
